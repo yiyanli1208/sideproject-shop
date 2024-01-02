@@ -6,4 +6,4 @@
 * 第二題
 
 [光宅咖啡](https://www.youtube.com/watch?v=7TSWzELeaUM)
-[test](sideproject-shop/gjSchool/src/controller/)
+[test](gjSchool/src)
